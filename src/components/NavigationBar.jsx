@@ -1,10 +1,7 @@
 import React from 'react'
-
 import logo from '../assets/logo 2-cropped.svg'
 import menu from '../menu-icon.svg'
 import '../App.css';
-import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.bundle.min.js";
 
 const NavigationBar = () => {
   return (
